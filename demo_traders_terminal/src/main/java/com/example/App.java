@@ -11,8 +11,8 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println(10+20);
         System.out.println(10+20+50);
-        System.out.println(10+20+500);
-        System.out.println(10+20+500+500);
+        
+        
         
     }
 }
